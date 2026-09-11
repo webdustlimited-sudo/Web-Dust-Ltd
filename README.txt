@@ -30,3 +30,16 @@ FEATURES:
 TO USE:
 Unzip the folder and open index.html in a browser.
 For public hosting, upload the complete folder to your web host.
+
+
+GOOGLE SEARCH CONSOLE VERIFICATION:
+- The supplied Google verification file is included at the website root:
+  google93649e881d313e1c.html
+- Upload the whole site to the same domain/property you are verifying, then use Google Search Console's HTML-file verification option.
+
+REQUEST A QUOTE:
+- quote.html contains the quote form.
+- The form is configured to submit to webdustlimited@gmail.com using FormSubmit.
+- The first submission may require FormSubmit's email activation/confirmation step.
+- Update the _next hidden field in quote.html if the live domain is not https://webdustlimited.com/thank-you.html.
+- The site also includes a mailto link for webdustlimited@gmail.com in the contact/quote areas.
